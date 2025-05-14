@@ -49,3 +49,15 @@ Project-Butterfly/
 ├── processa_compra.php # Processa a compra da obra
 ├── /uploads # Imagens das obras
 └── /css /js /img # Recursos estáticos
+
+---
+
+## 📌 Considerações Finais
+
+Este projeto representa uma base sólida para soluções de e-commerce voltadas ao público artístico. Pode ser expandido com funcionalidades como integração de pagamentos, áreas de comentários, avaliação de obras e dashboards analíticos.
+
+Sinta-se à vontade para contribuir, sugerir melhorias ou utilizar este projeto como referência acadêmica ou pessoa.
+
+---
+
+Feito com 💙 por **Regis Brasil**
