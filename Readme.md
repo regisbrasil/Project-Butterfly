@@ -38,7 +38,6 @@ Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam comparti
 ---
 
 ## 🧱 Estrutura do Sistema
-
 Project-Butterfly/
 ├── index.php # Página inicial (galeria pública)
 ├── login.php # Página de login
