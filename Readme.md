@@ -10,15 +10,9 @@ Este sistema foi criado como parte de um projeto acadêmico no curso de **Tecnol
 
 ---
 
-## 🎨 Funcionalidades Principais
+## 👤 Público-Alvo
 
-- Cadastro de usuários com distinção entre artistas e visitantes/clientes  
-- Login com controle de acesso  
-- Cadastro, edição e exclusão de obras de arte pelos artistas  
-- Visualização pública de obras com detalhes  
-- Sistema de compra para visitantes (clientes)  
-- Upload de imagens para representar as obras  
-- Interface adaptada para diferentes tipos de usuários  
+Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam compartilhar, vender ou apreciar obras autorais.
 
 ---
 
@@ -28,6 +22,18 @@ Este sistema foi criado como parte de um projeto acadêmico no curso de **Tecnol
 - **PHP** – Lógica do back-end  
 - **MySQL** – Banco de dados relacional  
 - **Workbench** – Modelagem do banco de dados  
+
+---
+
+## 🎨 Funcionalidades Principais
+
+- Cadastro de usuários com distinção entre artistas e visitantes/clientes  
+- Login com controle de acesso  
+- Cadastro, edição e exclusão de obras de arte pelos artistas  
+- Visualização pública de obras com detalhes  
+- Sistema de compra para visitantes (clientes)  
+- Upload de imagens para representar as obras  
+- Interface adaptada para diferentes tipos de usuários  
 
 ---
 
@@ -44,10 +50,3 @@ Project-Butterfly/
 ├── processa_compra.php # Processa a compra da obra
 ├── /uploads # Imagens das obras
 └── /css /js /img # Recursos estáticos
-
-
----
-
-## 👤 Público-Alvo
-
-Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam compartilhar, vender ou apreciar obras autorais.
