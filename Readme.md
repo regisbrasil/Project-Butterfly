@@ -37,19 +37,21 @@ Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam comparti
 
 ---
 
-## 🧱 Estrutura do Sistema
+### 🧱 Estrutura do Sistema
 
+```
 Project-Butterfly/
-├── index.php # Página inicial (galeria pública)
-├── login.php # Página de login
-├── logout.php # Logout do sistema
-├── painel_artista.php # Painel principal do artista
-├── cadastro_obra.php # Formulário de nova obra
-├── processa_obra.php # Cadastro de obras no banco
-├── detalhe_obra.php # Página de visualização detalhada
-├── processa_compra.php # Processa a compra da obra
-├── /uploads # Imagens das obras
-└── /css /js /img # Recursos estáticos
+├── index.php                # Página inicial (galeria pública)
+├── login.php                # Página de login
+├── logout.php               # Logout do sistema
+├── painel_artista.php       # Painel principal do artista
+├── cadastro_obra.php        # Formulário de nova obra
+├── processa_obra.php        # Cadastro de obras no banco
+├── detalhe_obra.php         # Página de visualização detalhada
+├── processa_compra.php      # Processa a compra da obra
+├── /uploads                 # Imagens das obras
+└── /css /js /img            # Recursos estáticos
+```
 
 ---
 
