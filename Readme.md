@@ -28,7 +28,9 @@ MySQL – Banco de dados relacional
 
 Workbench – Modelagem do banco
 
-🧱 Estrutura do Sistema
+### 🧱 Estrutura do Sistema
+
+```
 Project-Butterfly/
 ├── index.php                # Página inicial (galeria pública)
 ├── login.php                # Página de login
@@ -40,6 +42,8 @@ Project-Butterfly/
 ├── processa_compra.php      # Processa a compra da obra
 ├── /uploads                 # Imagens das obras
 └── /css /js /img            # Recursos estáticos
+```
+
 
 👤 Público-Alvo
 Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam compartilhar, vender ou apreciar obras autorais.
