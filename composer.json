@@ -1,0 +1,30 @@
+{
+  "name": "regisbrasil/project-butterfly",
+  "description": "Project Butterfly | Desenvolvimento de uma aplicação MVC - Disciplina de PWII",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Regis Brasil",
+      "email": "regisregis334@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php",
+      "source/Boot/Helpers.php"
+    ]
+  },
+  "require": {
+    "dompdf/dompdf": "^2.0",
+    "coffeecode/router": "1.0.8",
+    "coffeecode/uploader": "1.0.11",
+    "league/plates": "v3.4.0"
+  }
+  }

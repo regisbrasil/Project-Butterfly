@@ -1,0 +1,5 @@
+/.idea/
+/vendor/
+/themes/web/*.html
+composer.lock
+/storage
