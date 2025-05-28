@@ -16,12 +16,14 @@ Jovens artistas (a partir de 16 anos) e entusiastas da arte que desejam comparti
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 Tecnologias e Abordagens Utilizadas
 
 - **HTML5, CSS3, Bootstrap** – Interface responsiva  
 - **PHP** – Lógica do back-end  
 - **MySQL** – Banco de dados relacional  
 - **Workbench** – Modelagem do banco de dados  
+- **CRUD** – Operações de criação, leitura, atualização e exclusão de dados  
+- **MVC** – Arquitetura de software para separação entre lógica, visual e dados
 
 ---
 
